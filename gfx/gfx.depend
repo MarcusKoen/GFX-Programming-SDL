@@ -1,0 +1,989 @@
+# depslib dependency file v1.0
+1770121063 source:c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\main.cpp
+	<SDL3/SDL.h>
+	<iostream>
+
+1767221034 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_assert.h>
+	<SDL3/SDL_asyncio.h>
+	<SDL3/SDL_atomic.h>
+	<SDL3/SDL_audio.h>
+	<SDL3/SDL_bits.h>
+	<SDL3/SDL_blendmode.h>
+	<SDL3/SDL_camera.h>
+	<SDL3/SDL_clipboard.h>
+	<SDL3/SDL_cpuinfo.h>
+	<SDL3/SDL_dialog.h>
+	<SDL3/SDL_dlopennote.h>
+	<SDL3/SDL_endian.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_events.h>
+	<SDL3/SDL_filesystem.h>
+	<SDL3/SDL_gamepad.h>
+	<SDL3/SDL_gpu.h>
+	<SDL3/SDL_guid.h>
+	<SDL3/SDL_haptic.h>
+	<SDL3/SDL_hidapi.h>
+	<SDL3/SDL_hints.h>
+	<SDL3/SDL_init.h>
+	<SDL3/SDL_iostream.h>
+	<SDL3/SDL_joystick.h>
+	<SDL3/SDL_keyboard.h>
+	<SDL3/SDL_keycode.h>
+	<SDL3/SDL_loadso.h>
+	<SDL3/SDL_locale.h>
+	<SDL3/SDL_log.h>
+	<SDL3/SDL_messagebox.h>
+	<SDL3/SDL_metal.h>
+	<SDL3/SDL_misc.h>
+	<SDL3/SDL_mouse.h>
+	<SDL3/SDL_mutex.h>
+	<SDL3/SDL_pen.h>
+	<SDL3/SDL_pixels.h>
+	<SDL3/SDL_platform.h>
+	<SDL3/SDL_power.h>
+	<SDL3/SDL_process.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_rect.h>
+	<SDL3/SDL_render.h>
+	<SDL3/SDL_scancode.h>
+	<SDL3/SDL_sensor.h>
+	<SDL3/SDL_storage.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_system.h>
+	<SDL3/SDL_thread.h>
+	<SDL3/SDL_time.h>
+	<SDL3/SDL_timer.h>
+	<SDL3/SDL_tray.h>
+	<SDL3/SDL_touch.h>
+	<SDL3/SDL_version.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_oldnames.h>
+
+1764671760 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_stdinc.h
+	<SDL3/SDL_platform_defines.h>
+	<stdarg.h>
+	<string.h>
+	<wchar.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdbool.h>
+	<alloca.h>
+	<stdlib.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	<SDL3/SDL_begin_code.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL3/SDL_close_code.h>
+
+1763573308 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_platform_defines.h
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<TargetConditionals.h>
+	<winapifamily.h>
+
+1760130002 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_begin_code.h
+
+1735739152 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_close_code.h
+
+1763227454 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_assert.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<signal.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_asyncio.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1756295180 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_atomic.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_platform_defines.h>
+	<SDL3/SDL_begin_code.h>
+	<mbarrier.h>
+	<SDL3/SDL_close_code.h>
+
+1765204032 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_audio.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_endian.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_mutex.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_iostream.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1761226126 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_endian.h
+	<SDL3/SDL_stdinc.h>
+	<intrin.h>
+	<endian.h>
+	<sys/byteorder.h>
+	<endian.h>
+	<sys/endian.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_error.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1760464040 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_mutex.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_atomic.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_thread.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1760328252 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_thread.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_atomic.h>
+	<process.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1760323412 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_properties.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1759775104 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_iostream.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_bits.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_blendmode.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1757962552 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_camera.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_pixels.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1763214080 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_pixels.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_endian.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1765986964 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_surface.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_blendmode.h>
+	<SDL3/SDL_pixels.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_rect.h>
+	<SDL3/SDL_iostream.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1761429142 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_rect.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1760030504 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_clipboard.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1760138244 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_cpuinfo.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1761628236 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_dialog.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1765986964 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_video.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_pixels.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_rect.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1766601950 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_dlopennote.h
+	<SDL3/SDL_stdinc.h>
+
+1762889662 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_events.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_audio.h>
+	<SDL3/SDL_camera.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_gamepad.h>
+	<SDL3/SDL_joystick.h>
+	<SDL3/SDL_keyboard.h>
+	<SDL3/SDL_keycode.h>
+	<SDL3/SDL_mouse.h>
+	<SDL3/SDL_pen.h>
+	<SDL3/SDL_power.h>
+	<SDL3/SDL_sensor.h>
+	<SDL3/SDL_scancode.h>
+	<SDL3/SDL_touch.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1766468718 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_gamepad.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_guid.h>
+	<SDL3/SDL_iostream.h>
+	<SDL3/SDL_joystick.h>
+	<SDL3/SDL_power.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_sensor.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1738860260 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_guid.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1758548052 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_joystick.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_guid.h>
+	<SDL3/SDL_mutex.h>
+	<SDL3/SDL_power.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_sensor.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1755747656 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_power.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1756470662 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_sensor.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1757715104 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_keyboard.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_keycode.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_rect.h>
+	<SDL3/SDL_scancode.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1765986964 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_keycode.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_scancode.h>
+
+1753664292 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_scancode.h
+	<SDL3/SDL_stdinc.h>
+
+1765986964 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_mouse.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1763723682 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_pen.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_mouse.h>
+	<SDL3/SDL_touch.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_touch.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_mouse.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1763227858 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_filesystem.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1766413616 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_gpu.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_pixels.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_rect.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1745502714 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_haptic.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_joystick.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1756803172 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_hidapi.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1767125690 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_hints.h
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1748465824 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_init.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_events.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_loadso.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_locale.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1758400776 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_log.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_messagebox.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_metal.h
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_misc.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_platform.h
+	<SDL3/SDL_platform_defines.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1747059506 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_process.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_iostream.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1766852592 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_render.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_blendmode.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_events.h>
+	<SDL3/SDL_pixels.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_rect.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_gpu.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1747679032 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_storage.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_filesystem.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1746590078 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_system.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_keyboard.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_time.h
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1758543828 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_timer.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1754322162 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_tray.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1767221034 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_version.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1767023418 c:\users\janedoe\onedrive - university of south africa\personal\sdl\gfx-programming-sdl\gfx\libs\sdl3\include\sdl3\sdl_oldnames.h
+	<SDL3/SDL_platform_defines.h>
+
+1767221034 c:\sdl3\include\sdl3\sdl.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_assert.h>
+	<SDL3/SDL_asyncio.h>
+	<SDL3/SDL_atomic.h>
+	<SDL3/SDL_audio.h>
+	<SDL3/SDL_bits.h>
+	<SDL3/SDL_blendmode.h>
+	<SDL3/SDL_camera.h>
+	<SDL3/SDL_clipboard.h>
+	<SDL3/SDL_cpuinfo.h>
+	<SDL3/SDL_dialog.h>
+	<SDL3/SDL_dlopennote.h>
+	<SDL3/SDL_endian.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_events.h>
+	<SDL3/SDL_filesystem.h>
+	<SDL3/SDL_gamepad.h>
+	<SDL3/SDL_gpu.h>
+	<SDL3/SDL_guid.h>
+	<SDL3/SDL_haptic.h>
+	<SDL3/SDL_hidapi.h>
+	<SDL3/SDL_hints.h>
+	<SDL3/SDL_init.h>
+	<SDL3/SDL_iostream.h>
+	<SDL3/SDL_joystick.h>
+	<SDL3/SDL_keyboard.h>
+	<SDL3/SDL_keycode.h>
+	<SDL3/SDL_loadso.h>
+	<SDL3/SDL_locale.h>
+	<SDL3/SDL_log.h>
+	<SDL3/SDL_messagebox.h>
+	<SDL3/SDL_metal.h>
+	<SDL3/SDL_misc.h>
+	<SDL3/SDL_mouse.h>
+	<SDL3/SDL_mutex.h>
+	<SDL3/SDL_pen.h>
+	<SDL3/SDL_pixels.h>
+	<SDL3/SDL_platform.h>
+	<SDL3/SDL_power.h>
+	<SDL3/SDL_process.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_rect.h>
+	<SDL3/SDL_render.h>
+	<SDL3/SDL_scancode.h>
+	<SDL3/SDL_sensor.h>
+	<SDL3/SDL_storage.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_system.h>
+	<SDL3/SDL_thread.h>
+	<SDL3/SDL_time.h>
+	<SDL3/SDL_timer.h>
+	<SDL3/SDL_tray.h>
+	<SDL3/SDL_touch.h>
+	<SDL3/SDL_version.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_oldnames.h>
+
+1764671760 c:\sdl3\include\sdl3\sdl_stdinc.h
+	<SDL3/SDL_platform_defines.h>
+	<stdarg.h>
+	<string.h>
+	<wchar.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdbool.h>
+	<alloca.h>
+	<stdlib.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	<SDL3/SDL_begin_code.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL3/SDL_close_code.h>
+
+1763573308 c:\sdl3\include\sdl3\sdl_platform_defines.h
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<TargetConditionals.h>
+	<winapifamily.h>
+
+1760130002 c:\sdl3\include\sdl3\sdl_begin_code.h
+
+1735739152 c:\sdl3\include\sdl3\sdl_close_code.h
+
+1763227454 c:\sdl3\include\sdl3\sdl_assert.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<signal.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\sdl3\include\sdl3\sdl_asyncio.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1756295180 c:\sdl3\include\sdl3\sdl_atomic.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_platform_defines.h>
+	<SDL3/SDL_begin_code.h>
+	<mbarrier.h>
+	<SDL3/SDL_close_code.h>
+
+1765204032 c:\sdl3\include\sdl3\sdl_audio.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_endian.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_mutex.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_iostream.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1761226126 c:\sdl3\include\sdl3\sdl_endian.h
+	<SDL3/SDL_stdinc.h>
+	<intrin.h>
+	<endian.h>
+	<sys/byteorder.h>
+	<endian.h>
+	<sys/endian.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\sdl3\include\sdl3\sdl_error.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1760464040 c:\sdl3\include\sdl3\sdl_mutex.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_atomic.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_thread.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1760328252 c:\sdl3\include\sdl3\sdl_thread.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_atomic.h>
+	<process.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1760323412 c:\sdl3\include\sdl3\sdl_properties.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1759775104 c:\sdl3\include\sdl3\sdl_iostream.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\sdl3\include\sdl3\sdl_bits.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\sdl3\include\sdl3\sdl_blendmode.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1757962552 c:\sdl3\include\sdl3\sdl_camera.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_pixels.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1763214080 c:\sdl3\include\sdl3\sdl_pixels.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_endian.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1765986964 c:\sdl3\include\sdl3\sdl_surface.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_blendmode.h>
+	<SDL3/SDL_pixels.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_rect.h>
+	<SDL3/SDL_iostream.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1761429142 c:\sdl3\include\sdl3\sdl_rect.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1760030504 c:\sdl3\include\sdl3\sdl_clipboard.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1760138244 c:\sdl3\include\sdl3\sdl_cpuinfo.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1761628236 c:\sdl3\include\sdl3\sdl_dialog.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1765986964 c:\sdl3\include\sdl3\sdl_video.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_pixels.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_rect.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1766601950 c:\sdl3\include\sdl3\sdl_dlopennote.h
+	<SDL3/SDL_stdinc.h>
+
+1762889662 c:\sdl3\include\sdl3\sdl_events.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_audio.h>
+	<SDL3/SDL_camera.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_gamepad.h>
+	<SDL3/SDL_joystick.h>
+	<SDL3/SDL_keyboard.h>
+	<SDL3/SDL_keycode.h>
+	<SDL3/SDL_mouse.h>
+	<SDL3/SDL_pen.h>
+	<SDL3/SDL_power.h>
+	<SDL3/SDL_sensor.h>
+	<SDL3/SDL_scancode.h>
+	<SDL3/SDL_touch.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1766468718 c:\sdl3\include\sdl3\sdl_gamepad.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_guid.h>
+	<SDL3/SDL_iostream.h>
+	<SDL3/SDL_joystick.h>
+	<SDL3/SDL_power.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_sensor.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1738860260 c:\sdl3\include\sdl3\sdl_guid.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1758548052 c:\sdl3\include\sdl3\sdl_joystick.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_guid.h>
+	<SDL3/SDL_mutex.h>
+	<SDL3/SDL_power.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_sensor.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1755747656 c:\sdl3\include\sdl3\sdl_power.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1756470662 c:\sdl3\include\sdl3\sdl_sensor.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1757715104 c:\sdl3\include\sdl3\sdl_keyboard.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_keycode.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_rect.h>
+	<SDL3/SDL_scancode.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1765986964 c:\sdl3\include\sdl3\sdl_keycode.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_scancode.h>
+
+1753664292 c:\sdl3\include\sdl3\sdl_scancode.h
+	<SDL3/SDL_stdinc.h>
+
+1765986964 c:\sdl3\include\sdl3\sdl_mouse.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1763723682 c:\sdl3\include\sdl3\sdl_pen.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_mouse.h>
+	<SDL3/SDL_touch.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\sdl3\include\sdl3\sdl_touch.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_mouse.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1763227858 c:\sdl3\include\sdl3\sdl_filesystem.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1766413616 c:\sdl3\include\sdl3\sdl_gpu.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_pixels.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_rect.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1745502714 c:\sdl3\include\sdl3\sdl_haptic.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_joystick.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1756803172 c:\sdl3\include\sdl3\sdl_hidapi.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1767125690 c:\sdl3\include\sdl3\sdl_hints.h
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1748465824 c:\sdl3\include\sdl3\sdl_init.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_events.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\sdl3\include\sdl3\sdl_loadso.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\sdl3\include\sdl3\sdl_locale.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1758400776 c:\sdl3\include\sdl3\sdl_log.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\sdl3\include\sdl3\sdl_messagebox.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\sdl3\include\sdl3\sdl_metal.h
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\sdl3\include\sdl3\sdl_misc.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\sdl3\include\sdl3\sdl_platform.h
+	<SDL3/SDL_platform_defines.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1747059506 c:\sdl3\include\sdl3\sdl_process.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_iostream.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1766852592 c:\sdl3\include\sdl3\sdl_render.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_blendmode.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_events.h>
+	<SDL3/SDL_pixels.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_rect.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_gpu.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1747679032 c:\sdl3\include\sdl3\sdl_storage.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_filesystem.h>
+	<SDL3/SDL_properties.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1746590078 c:\sdl3\include\sdl3\sdl_system.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_keyboard.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1737475944 c:\sdl3\include\sdl3\sdl_time.h
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1758543828 c:\sdl3\include\sdl3\sdl_timer.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1754322162 c:\sdl3\include\sdl3\sdl_tray.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_surface.h>
+	<SDL3/SDL_video.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1767221034 c:\sdl3\include\sdl3\sdl_version.h
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+
+1767023418 c:\sdl3\include\sdl3\sdl_oldnames.h
+	<SDL3/SDL_platform_defines.h>
+
+1764792684 c:\sdl3\include\sdl3\sdl_main.h
+	<SDL3/SDL_platform_defines.h>
+	<SDL3/SDL_stdinc.h>
+	<SDL3/SDL_error.h>
+	<SDL3/SDL_events.h>
+	"SDL_main_private.h"
+	<SDL3/SDL_init.h>
+	<SDL3/SDL_begin_code.h>
+	<SDL3/SDL_close_code.h>
+	<SDL3/SDL_main_impl.h>
+
+1735739152 c:\sdl3\include\sdl3\sdl_main_impl.h
+	"SDL_main_impl_private.h"
+
